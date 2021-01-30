@@ -11,4 +11,8 @@ index = 10
 while index > 0:
     print(index)
     index -=1
-    
+
+newVariable = 4
+while newVariable > 0:
+    print(newVariable)
+    newVariable -=1
